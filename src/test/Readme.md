@@ -63,3 +63,9 @@ static
 ------
 - You do not need to define object of a particular class
 - static varible
+
+
+GIT
+---
+git add .
+git commit -m "Java Project"
