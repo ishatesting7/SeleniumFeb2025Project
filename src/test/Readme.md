@@ -1,0 +1,65 @@
+Package
+-------
+A collection of (.java)
+
+public 
+------
+Access Modifier
+
+class
+-----
+A block which will consist of Variables and Method
+
+static
+------
+A keyword, responsible for calling the methods/variable without
+creating an instance
+
+void
+----
+void, will make to return nothing
+
+System
+------
+predefined class which is providing access 
+
+out
+---
+it is a static field
+
+println
+-------
+It is a method
+
+Comments
+--------
+1. Single Line
+2. Multi Line
+
+Datatypes in Java
+-----------------
+
+int
+float
+double
+long
+int
+short
+byte
+boolean
+
+final
+-----
+ - variable
+ - method 
+ - class
+
+methods
+-------
+
+
+
+static
+------
+- You do not need to define object of a particular class
+- static varible
