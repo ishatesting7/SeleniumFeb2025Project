@@ -70,3 +70,10 @@ GIT
 git add .
 git commit -m "Java Project"
 git push remote origin
+
+2 Programs
+-----------
+
+1. To check weather String is Anagram or Not (LISTEN, SILENT)
+2. To check weather String is Palindrome (RADAR, MOM)
+
