@@ -69,3 +69,4 @@ GIT
 ---
 git add .
 git commit -m "Java Project"
+git push remote origin
