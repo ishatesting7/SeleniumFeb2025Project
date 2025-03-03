@@ -71,9 +71,20 @@ git add .
 git commit -m "Java Project"
 git push remote origin
 
-2 Programs
------------
+2 Programs(28th Feb)
+-------------------
 
 1. To check weather String is Anagram or Not (LISTEN, SILENT)
 2. To check weather String is Palindrome (RADAR, MOM)
 
+
+2 Programs(3rd March)
+--------------------
+1. Display all the leap year from today till 2300
+
+2. To Display 
+        * * * * *
+        * * * *
+        * * * 
+        * *
+        *
