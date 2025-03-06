@@ -87,4 +87,12 @@ git push remote origin
         * * * *
         * * * 
         * *
-        *
+        * 
+3 Programs
+   - Collections Topic with 10 Methods
+   - HashMap - 10 Methods
+   - HashTable - 10 Methods
+   - HashSet - 10 Methods
+   - LinkedList - 10 Method
+   - ArrayList - 10 Methods
+- 
