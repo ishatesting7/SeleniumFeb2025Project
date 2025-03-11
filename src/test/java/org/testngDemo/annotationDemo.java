@@ -81,4 +81,9 @@ public class annotationDemo {
 
     }
 }
-//Framework -
+//Framework - Define things in before Suite -
+//global - qa
+//DB Connection
+//Logger
+//AccessToken - AuthToken, OATH Token, JWT Token,
+//Initializing the webdriver
