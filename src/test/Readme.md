@@ -102,4 +102,7 @@ git push remote origin
    - Reverse of String
    - Reverse of a Word of Complete Sentence
 
-- 
+Assignment - 3 Test Cases - 13th March 2024
+1. Add 1 Product and Do a checkout Including assertion
+2. Add 6 Product and Do a checkout Including assertion
+3. Add 1 Product and Keep 'Checkout Information Empty' and Validate the Error message
