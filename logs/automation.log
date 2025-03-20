@@ -1,0 +1,11 @@
+2025-03-20 20:22:07 INFO  logDemo:24 - ************ TEST CASE 1 Started **********************
+2025-03-20 20:22:07 INFO  logDemo:25 - Navigating to the URL
+2025-03-20 20:22:08 INFO  logDemo:33 - ************ TEST CASE 2 Started **********************
+2025-03-20 20:22:08 INFO  logDemo:34 - Navigating to the URL - 2
+2025-03-20 20:24:32 INFO  logDemo:24 - ************ TEST CASE 1 Started **********************
+2025-03-20 20:24:32 INFO  logDemo:36 - ************ TEST CASE 2 Started **********************
+2025-03-20 20:24:32 INFO  logDemo:37 - Navigating to the URL - 2
+2025-03-20 20:26:20 INFO  logDemo:24 - ************ TEST CASE 1 Started **********************
+2025-03-20 20:26:20 INFO  logDemo:25 - Navigating to the URL
+2025-03-20 20:26:20 INFO  logDemo:33 - ************ TEST CASE 2 Started **********************
+2025-03-20 20:26:20 INFO  logDemo:34 - Navigating to the URL - 2
