@@ -21,7 +21,6 @@ public class loginTest{
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         lp = new loginPage(driver);
-
     }
 
     @Test(priority = 1)
