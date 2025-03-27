@@ -1,0 +1,44 @@
+API Testing / Microservices--> Backend Testing
+==============================================
+
+Endpoint
+Method Type
+Status Code
+Status Message
+Request Header
+Request Payload
+Response Header
+Response Payload
+Auth
+
+Request/Response Body - JSON + XML + HTML + WSDL + GraphQL
+
+
+Endpoint -
+https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary
+
+GET --> Retrieving the Data
+POST --> Creating new Record
+PATCH --> Partial Update
+PUT --> Complete Update
+DELETE --> Deleting the Record
+
+Validating the ReadOnly -> Dev/QA Database
+
+CRUD Operation - Create Read Update Delete
+
+Select *from tablename where username="dasn";
+
+Postman/Bruno/SoapUI
+--------------------
+
+Rest API (HTTPS) 			vs 		Soap API (HTTPS, SMTP, TCP)
+
+JSON/XML/HTML/text/Binary			XML
+
+Faster/LightWeighted				AuthCode(WS)
+
+200, 201, 404						Different Message
+
+Faster Response						Finacle Application
+

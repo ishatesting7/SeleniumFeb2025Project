@@ -22,6 +22,13 @@ public class locatorDemo1{
         WebElement username = driver.findElement(By.id("user-name"));
         WebElement password = driver.findElement(By.id("password"));
         WebElement clickBtn = driver.findElement(By.id("login-button"));
+        boolean flag = username.isDisplayed();
+        Assert.assertTrue(username.isDisplayed());
+        Assert.assertTrue(password.isEnabled());
+        Assert.assertTrue(password.isSelected());
+        // Fill the form --> Pay Button is activated
+
+        //RadioButton, Grayed Out Element
         username.sendKeys("standard_user");
         password.sendKeys("secret_sauce");
         clickBtn.click();
